@@ -140,7 +140,7 @@
 
 如下图所示，是7部电梯24层楼在乘客量为20时的调度过程：
 
-![gTyVbj.png](https://z3.ax1x.com/2021/05/20/gTyVbj.png)](https://imgtu.com/i/gTyVbj
+![gTyVbj.png](https://z3.ax1x.com/2021/05/20/gTyVbj.png)
 
 ### 乘客乘梯功能
 
